@@ -1,6 +1,6 @@
 ## 1. 프로젝트요약 
 
-![프로젝트 요약](../TIL/assets/apartradamus.jpeg)
+![프로젝트 요약](./assets/apartradamus.jpeg)
 
 ## 2. 프로젝트 배경 및 목표 
 ### 2-1. 배경
@@ -44,7 +44,7 @@
 - Encoding: Label Encoder 
 
 ### 3-3. 모델링
-![](../TIL/assets/apartadamus_modeling.jpeg)
+![](./assets/apartadamus_modeling.jpeg)
 
-![](../TIL/assets/apartradamus_r2.jpeg)
+![](./assets/apartradamus_r2.jpeg)
 
